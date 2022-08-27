@@ -11,3 +11,4 @@ Faça um programa que liste os números perfeitos de 1 a 1000.
 Comecei o programa declarando as variaveis necessarias para resolver, depois pedi para o usuario digitar um numero e guardei esse numero na varial n, logo depois fiz um for para ver qauntas vezes esse numero era dividido de for exata ate ele mesmo, ai logo apos fiz uma condição que se o for retornasse 2 esse numero era considerado primo, se não ele não é primo, logo depois disso fui para a parte 2 do exercico para verificar se um numero é perfeito ou não para isso usei dois for no primeiro ele serve para definir qual nummero vai ser testado, já no segundo ele serve para pegar esse numero e dividir todos os numero antes dele e caso ele seja divisivel ele soma, e se as soma desse numero for igual ao nuemro ele é dito como perfeito.
 
 
+![image](https://user-images.githubusercontent.com/54037849/187039923-b113c238-4100-4143-8bbc-10193f786ecd.png)
