@@ -11,4 +11,6 @@ Atividade 1
   Faça um programa que mostre os números de 1000 a 9999 que possuem essa característica.
   
 Comecei declarando as variaveis nescessarias, depois fiz uma estrutura de repetição para ver quis numeros ente 1000 a 9999 se encaixa na regra, depois mostrie o resultado.
+
+
 ![image](https://user-images.githubusercontent.com/54037849/187039405-40e19c57-61ce-49ad-84b9-7ddcd8273648.png)
