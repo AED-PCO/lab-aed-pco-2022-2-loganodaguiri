@@ -22,4 +22,14 @@ if(arr[i] == x) return x;
 
 4-Sim, Pior Caso: O(n)/ Caso Médio: o(n)/2  / Melhor Caso: O(1)
 
+![image](https://user-images.githubusercontent.com/54037849/195620417-c83fcc80-6652-4259-8756-ebd4d627669d.png)
+
+1- atribuição de adição e comparação.
+
+2- if(j!=pos)
+res[pos] += arr1[pos]/arr1[j]; 
+
+3- O codigo que está como exemplo acima ira fazer o tamnaho do vetor elevado ao quadrado
+
+4- Não
 
