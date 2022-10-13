@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/54037849/195617029-6cd63789-2db2-41e8-acf8-5d723762861b.png)
-1- Multiplicação e controlador for.
+1- multiplicação
 
 2- for(int i=n; i>1; i--){
 res = res*i;
@@ -11,3 +11,15 @@ res = res*i;
 
 
 ![image](https://user-images.githubusercontent.com/54037849/195618394-8fa999d4-dbb1-4f21-97d7-8b1c014f56ed.png)
+
+1- comparação
+
+2- for(int i=0; i<arr.length; i++){
+if(arr[i] == x) return x;
+}
+
+3- Esse codigo vai percorrer todo o vetor a procura de um elemento que seja igual a x caso não encontre ele so sai
+
+4-Sim, Pior Caso: O(n)/ Caso Médio: o(n)/2  / Melhor Caso: O(1)
+
+
