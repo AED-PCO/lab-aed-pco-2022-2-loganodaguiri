@@ -5,7 +5,7 @@
 res = res*i;
 }
 
-3- f(n) = n - 1 ou seja a estrutura de repetição será executada n-1 vezes
+3- f(n) = n - 1
 
 4- Não
 
