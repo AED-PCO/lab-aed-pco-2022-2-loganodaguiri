@@ -33,3 +33,17 @@ res[pos] += arr1[pos]/arr1[j];
 
 4- Não
 
+![image](https://user-images.githubusercontent.com/54037849/195622263-e097ad8a-d21d-490c-b65b-e3bccdd4e2ab.png)
+
+1- Comparação, atribuição e atribuição de adição.
+
+2- for(int i=0; i<dados.length; i++){
+            double soma=0.0;
+            for(int j=0; j<=i; j++)
+                soma += dados[j];
+            vet[i] = soma/(i+1);
+        }
+
+3- O codigo ira fazer n(n-i) e cada vez que isso ocorrer ele vai incrementar o i
+
+4-Não
