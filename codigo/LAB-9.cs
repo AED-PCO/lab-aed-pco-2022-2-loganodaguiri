@@ -1,4 +1,4 @@
-//FILA ESTATICA INVERTIDA
+//Fila estatica invertida
 
 namespace Lab9_FilaInvertida
 {
@@ -61,7 +61,7 @@ namespace Lab9_FilaInvertida
         }
     }
 }
-// PILHA ESTATICA INVERTIDA
+// Pilha estatica invertida
 
 namespace lab9_pilhainvertida
 {
@@ -128,7 +128,7 @@ namespace lab9_pilhainvertida
         
     }
 }
-// LISTA METADE INVERTIDA ESTATICA
+// Lista metade invertida
 
 namespace Lab9_ListaCopiadaInvertida
 {
